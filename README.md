@@ -1,3 +1,5 @@
+![photo](warface.png)
+
 # DesignPCB-attackControl
 
 # Controle remoto de ataque
@@ -27,6 +29,8 @@ Este projeto é um carrinho de controle remoto que possui um mecanismo de tiro i
 ## Configuração do Projeto
 
 ### 1. Design da Placa de Circuito Impresso (PCB)
+
+![Schematic_WarFace_2024-08-29](https://github.com/user-attachments/assets/59082ecc-9874-46ca-9529-d90940d6093e)
 
 ![gif](84tz.gif)
 
