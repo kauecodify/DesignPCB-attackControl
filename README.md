@@ -1,6 +1,8 @@
-![photo](warface.png)
+<img src="https://github.com/user-attachments/assets/3827b09c-b50e-416d-8ae0-fb8c5db0bc8f" alt="Imagem" width="70" />
 
-# DesignPCB-attackControl
+![photo](warface.png) 
+
+# DesignPCB-attackControl 
 
 # Controle remoto de ataque
 
@@ -11,6 +13,7 @@ Este projeto é um carrinho de controle remoto que possui um mecanismo de tiro i
 - **Microcontrolador**: Utiliza um microcontrolador Arduino Nano (ou equivalente) para controle geral.
 - **Motorização**: Inclui motores DC para movimentação do carrinho.
 - **Mecanismo de Tiro**: Um servomotor aciona um mecanismo de tiro.
+- **Aplicação de Reconhecimento do solo e inimigo via sensores e IA/ML**
 - **Controle Remoto**: Comunicação via RF com um receptor e transmissor RF.
 - **Componentes**: Sensores (opcionais), botões e LEDs para controle manual e feedback.
 
