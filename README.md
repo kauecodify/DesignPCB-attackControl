@@ -31,22 +31,15 @@ Este projeto é um carrinho de controle remoto que possui um mecanismo de tiro i
 
 ## Configuração do Projeto
 
-### 1. Design da Placa de Circuito Impresso (PCB)
-demais conexões em breve...
+### Design da Placa de Circuito Impresso (PCB)
 
 ![Schematic_WarFace_2024-08-29](https://github.com/user-attachments/assets/59082ecc-9874-46ca-9529-d90940d6093e)
 
-### 2. Montagem dos Componentes
+Pt2 >> Foi utilizado ESP32 para transmissão de dados ao servomotor, visando disparo, verificação do solo via sensores e as rodas com o drive de motor L298N usado para controlar velocidade e direção dos motores DC.
 
-1. **Preparar a Placa**: Receba e inspecione a placa de circuito impresso.
-2. **Soldar Componentes**: Siga o layout da placa para soldar os componentes eletrônicos.
-3. **Conectar Cabos e Fios**: Conecte motores, sensores e fontes de energia conforme o esquema.
+![WarMachine](https://github.com/user-attachments/assets/cb8b174b-0b17-4c8a-8499-37f0a811c553)
 
-## Instruções de Uso
-
-1. **Ligar o Carrinho**: Conecte a fonte de energia e ligue o carrinho.
-2. **Controle Remoto**: Utilize o controle remoto para movimentar o carrinho e acionar o mecanismo de tiro.
-3. **Manutenção**: Realize verificações regulares e substitua componentes desgastados conforme necessário.
+### 3. Sensores e armamento em breve...
 
 ## Licença
 
